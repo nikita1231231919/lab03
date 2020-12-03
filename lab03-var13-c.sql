@@ -15,9 +15,9 @@ INSERT INTO partner_requirements VALUES
 (6, 'no', 35, 'IN', 20000, 5);
 
 INSERT INTO client VALUES
-('Novskiy', 'Nikita', 'Alekseyevich', 18, 'RU', 'middle', 30000, 2),
-('Alberto', 'Bruno', 'Alex', 20, 'EU', 'high', 145000, 6),
-('Mike', 'Jackson', 'Louis', 30, 'US', 'high', 300000, 5),
-('Rin', 'Ito', 'Ai', 23, 'JP', 'no', 200000, 1),
-('Aleksander', 'Gordienko', 'Ivanovich', 25, 'UA', 'middle', 45000, 3),
-('Abdul', 'Kahatri', 'Rain', 28, 'IN', 'no', 15000, 4); 
+('Novskiy', 'Nikita', 'Alekseyevich', 18, 'RU', 'middle', 30000, 2, 1),
+('Alberto', 'Bruno', 'Alex', 20, 'EU', 'high', 145000, 6, 2),
+('Mike', 'Jackson', 'Louis', 30, 'US', 'high', 300000, 5, 3),
+('Rin', 'Ito', 'Ai', 23, 'JP', 'no', 200000, 1, 4),
+('Aleksander', 'Gordienko', 'Ivanovich', 25, 'UA', 'middle', 45000, 3, 5),
+('Abdul', 'Kahatri', 'Rain', 28, 'IN', 'no', 15000, 4, 6); 
